@@ -1,5 +1,5 @@
-# Exploratory DatanAnalysis FIFA Dataset
-Exploratory DatacAnalysis and Visualization of FIFA Dataset
+# Exploratory DataAnalysis FIFA Dataset
+Exploratory DataAnalysis and Visualization of FIFA Dataset
 
 Check out the Jupyter notebook here: https://jovian.ai/ram9008478075/my-eda-project
 
