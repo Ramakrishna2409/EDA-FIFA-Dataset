@@ -1,4 +1,6 @@
 # Exploratory DataAnalysis FIFA Dataset
+
+![Fifa19](https://user-images.githubusercontent.com/69722333/170833759-48e4e369-1d1f-40e0-a174-7e55af0e26ae.jpg)
 Exploratory DataAnalysis and Visualization of FIFA Dataset
 
 Check out the Jupyter notebook here: https://jovian.ai/ram9008478075/my-eda-project
